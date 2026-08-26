@@ -12,7 +12,8 @@ cualquier situación, así que conviene guardarlo el mayor tiempo posible. La id
 ir revisando la fila de clientes una sola vez, sin devolverme a cambiar una decisión
 que ya tomé antes.
 
-Complejidad: O(n)
+Complejidad: O(n) porque se recorre la lista de clientes una sola vez.
+
 
 -------------------------------------------------------------
 
@@ -26,4 +27,5 @@ cada niño la galleta más pequeña que le alcance. Así evito gastar una gallet
 grande en un niño poco exigente, dejando esa galleta disponible por si más
 adelante aparece un niño que sí la necesite.
 
-Complejidad: O(n log n + m log m) 
+Complejidad: O(n log n + m log m)   porque lo que más cuesta es ordenar
+ambas listas.
