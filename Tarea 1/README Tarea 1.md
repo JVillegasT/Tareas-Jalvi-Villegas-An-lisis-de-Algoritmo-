@@ -14,6 +14,8 @@ que ya tomé antes.
 
 Complejidad: O(n)
 
+-------------------------------------------------------------
+
 Assign Cookies
 
 Enlace: https://leetcode.com/problems/assign-cookies/description/
