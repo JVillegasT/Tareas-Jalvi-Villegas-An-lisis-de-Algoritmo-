@@ -1,7 +1,7 @@
 # Tareas-Jalvi-Villegas-Analisis-de-Algoritmo-
 
 
-## 860. Lemonade Change
+Lemonade Change
 
 Enlace: https://leetcode.com/problems/lemonade-change/
 
@@ -14,7 +14,7 @@ que ya tomé antes.
 
 Complejidad: O(n)
 
-## 455. Assign Cookies
+Assign Cookies
 
 Enlace: https://leetcode.com/problems/assign-cookies/description/
 
