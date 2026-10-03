@@ -2,8 +2,8 @@
 
 **Curso:** Análisis de Algoritmos 
 **Lenguaje:** Python 3  
-**Cuenta LeetCode:** `https://leetcode.com/u/X4zdOgml15/`
-**Jalvi Villegas**
+**Cuenta LeetCode:** [Jalvi Villegas](https://leetcode.com/u/X4zdOgml15/)
+
 
 
 | # | Problema | Familia | Solución | Evidencia |
