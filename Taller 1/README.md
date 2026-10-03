@@ -1,4 +1,4 @@
-# Taller · Cinco familias en LeetCode
+# Taller 1
 
 **Curso:** Análisis de Algoritmos 
 **Lenguaje:** Python 3  
